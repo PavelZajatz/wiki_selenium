@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.pytest_cache
+.pytest_cache/
+
+# Reports
+reports/
+reports
+
+# Environments
+.venv
+venv/
+
+# Allure results
+test-results/
+/mobile/tests/builds/Wikipedia.app/
